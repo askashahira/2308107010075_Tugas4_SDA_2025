@@ -35,5 +35,5 @@ Repositori ini berisi file-file berikut:
     *   Mengukur waktu eksekusi menggunakan `clock()`.
     *   Mengukur penggunaan memori puncak menggunakan API spesifik platform (`GetProcessMemoryInfo` di Windows, `getrusage` di Linux/macOS).
     *   Mencetak hasil pengukuran ke konsol standar.
-*   `[Nama File Laporan PDF Anda].pdf`: Laporan akhir eksperimen dalam format PDF, berisi deskripsi detail, tabel hasil, grafik perbandingan, analisis, dan kesimpulan. *(Pastikan nama file ini sesuai dengan file laporan Anda)*.
+*   `Aska Shahira_2308107010075_Tugas4.pdf`: Laporan akhir eksperimen dalam format PDF, berisi deskripsi detail, tabel hasil, grafik perbandingan, analisis, dan kesimpulan. *(Pastikan nama file ini sesuai dengan file laporan Anda)*.
 *   `README.md`: File ini, memberikan gambaran umum tentang proyek.
